@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/margin_top"
+    android:background="@color/colorBackground">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="@dimen/list_item_height"
+        android:layout_height="@dimen/list_item_height"
+        android:layout_marginLeft="@dimen/margin"
+        android:layout_marginTop="@dimen/margin"
+        android:scaleType="centerCrop" />
+
+    <RelativeLayout
+        android:id="@+id/text_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/image"
+        android:paddingLeft="@dimen/padding_left">
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_top"
+            android:text="test1"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="@dimen/text_size_one" />
+
+        <TextView
+            android:id="@+id/location"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/name"
+            android:layout_marginTop="@dimen/margin"
+            android:gravity="top"
+            android:text="test2"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="@dimen/text_size_two" />
+
+        <TextView
+            android:id="@+id/about"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/location"
+            android:layout_marginBottom="@dimen/margin"
+            android:layout_marginTop="@dimen/margin"
+            android:text="test3"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="@dimen/text_size_two" />
+
+        <ImageView
+            android:id="@+id/icon"
+            android:layout_width="@dimen/icon_width"
+            android:layout_height="@dimen/icon_height"
+
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin"
+            android:layout_marginRight="@dimen/margin"
+            android:src="@drawable/ic_location_on_black_24dp" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

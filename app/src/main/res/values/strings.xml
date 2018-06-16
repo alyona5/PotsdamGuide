@@ -1,0 +1,219 @@
+<resources>
+    <string name="app_name">Potsdam Guide</string>
+
+    <!-- Category name for events [CHAR LIMIT=20] -->
+    <string name="category_events">Events</string>
+
+    <!-- Category name for places [CHAR LIMIT=20] -->
+    <string name="category_places">Places</string>
+
+    <!-- Category name for museums [CHAR LIMIT=20] -->
+    <string name="category_museums">Museums</string>
+
+    <!-- Category name for dining [CHAR LIMIT=20] -->
+    <string name="category_dining">Dining</string>
+
+    <!-- Category name for hotels [CHAR LIMIT=20] -->
+    <string name="category_hotels">Hotels</string>
+
+    <!-- Name of the event 1 [CHAT LIMIT=50] -->
+    <string name="event1">Music Festival</string>
+    <!-- The name of the event 2[CHAR LIMIT=50] -->
+    <string name="event2">Fireworks Symphony</string>
+    <!-- The name of the event 3[CHAR LIMIT=50] -->
+    <string name="event3">Christmas Market</string>
+    <!-- Name of the place 1 [CHAT LIMIT=50] -->
+    <string name="place1">Babelsberg Park</string>
+    <!-- Name of the place 2 [CHAT LIMIT=50] -->
+    <string name="place2">Sanssouci Park</string>
+    <!-- Name of the place 3 [CHAT LIMIT=50] -->
+    <string name="place3">New Garden</string>
+    <!-- Name of the place 4 [CHAT LIMIT=50] -->
+    <string name="place4">Volkspark Potsdam</string>
+    <!-- Name of the place 5 [CHAT LIMIT=50] -->
+    <string name="place5">Filmpark Babelsberg</string>
+    <!-- Name of the museum 1 [CHAT LIMIT=50] -->
+    <string name="museum1">Museum Barberini</string>
+    <!-- Name of the museum 2 [CHAT LIMIT=50] -->
+    <string name="museum2">Old Town Hall</string>
+    <!-- Name of the museum 3 [CHAT LIMIT=50] -->
+    <string name="museum3">Filmmuseum Potsdam</string>
+    <!-- Name of the museum 4 [CHAT LIMIT=50] -->
+    <string name="museum4">Schloss Cecilienhof</string>
+    <!-- Name of the museum 5 [CHAT LIMIT=50] -->
+    <string name="museum5">Alexandrowka</string>
+    <!-- Name of the restaurant 1 [CHAT LIMIT=50] -->
+    <string name="restaurant1">Charlotte</string>
+    <!-- Name of the restaurant 2 [CHAT LIMIT=50] -->
+    <string name="restaurant2">Zum Fliegenden Holländer</string>
+    <!-- Name of the restaurant 3 [CHAT LIMIT=50] -->
+    <string name="restaurant3">Restaurant and Café Heider</string>
+    <!-- Name of the restaurant 4 [CHAT LIMIT=50] -->
+    <string name="restaurant4">Der Butt</string>
+    <!-- Name of the restaurant 5 [CHAT LIMIT=50] -->
+    <string name="restaurant5">Lewy CAFÉ | WEIN-BISTRO</string>
+    <!-- Name of the restaurant 6 [CHAT LIMIT=50] -->
+    <string name="restaurant6">My Keng</string>
+    <!-- Name of the restaurant 7 [CHAT LIMIT=50] -->
+    <string name="restaurant7">Assaggi</string>
+    <!-- Name of the restaurant 8 [CHAT LIMIT=50] -->
+    <string name="restaurant8">Herr Dang</string>
+    <!-- Name of the hotel 1 [CHAT LIMIT=50] -->
+    <string name="hotel1">Dorint Hotel Sanssouci Potsdam</string>
+    <!-- Name of the hotel 2 [CHAT LIMIT=50] -->
+    <string name="hotel2">Mercure Hotel Potsdam City</string>
+    <!-- Name of the hotel 3 [CHAT LIMIT=50] -->
+    <string name="hotel3">Kongresshotel Potsdam am Templiner See</string>
+    <!-- Name of the hotel 4 [CHAT LIMIT=50] -->
+    <string name="hotel4">arcona HOTEL AM HAVELUFER</string>
+    <!-- Name of the hotel 5 [CHAT LIMIT=50] -->
+    <string name="hotel5">Hotel Am Luisenplatz Potsdam</string>
+    <!-- Name of the hotel 6 [CHAT LIMIT=50] -->
+    <string name="hotel6">Wyndham Garden Potsdam</string>
+    <!-- Name of the hotel 7 [CHAT LIMIT=50] -->
+    <string name="hotel7">NH Potsdam</string>
+    <!-- Name of the hotel 8 [CHAT LIMIT=50] -->
+    <string name="hotel8">BB Hotel Potsdam</string>
+
+    <!-- Address of the event 1 [CHAR LIMIT=50] -->
+    <string name="address_event1">Sanssouci Park, Potsdam</string>
+    <!-- Address of the event 2 [CHAR LIMIT=50] -->
+    <string name="address_event2">BUGA Park, Potsdam</string>
+    <!-- Address of the event 3 [CHAR LIMIT=50] -->
+    <string name="address_event3">Brandenburger Str., Potsdam</string>
+    <!-- Address of the place 1 [CHAR LIMIT=50] -->
+    <string name="address_place1">Park Babelsberg 10, Potsdam</string>
+    <!-- Address of the place 2 [CHAR LIMIT=50] -->
+    <string name="address_place2">Zur Historischen Mühle 1, Potsdam</string>
+    <!-- Address of the place 3 [CHAR LIMIT=50] -->
+    <string name="address_place3">Am Neuen Garten, Potsdam</string>
+    <!-- Address of the place 4 [CHAR LIMIT=50] -->
+    <string name="address_place4">Pappelallee 4, Potsda</string>
+    <!-- Address of the place 5 [CHAR LIMIT=50] -->
+    <string name="address_place5">Großbeerenstraße 200, Potsdam</string>
+    <!-- Address of the museum 1 [CHAR LIMIT=50] -->
+    <string name="address_museum1">Humboldtstraße 5-6, Potsdam</string>
+    <!-- Address of the museum 2 [CHAR LIMIT=50] -->
+    <string name="address_museum2">Am Alten Markt 9, Potsdam</string>
+    <!-- Address of the museum 3 [CHAR LIMIT=50] -->
+    <string name="address_museum3">Breite Str. 1A, Potsdam</string>
+    <!-- Address of the museum 4 [CHAR LIMIT=50] -->
+    <string name="address_museum4">Im Neuen Garten 11, Potsdam</string>
+    <!-- Address of the museum 5 [CHAR LIMIT=50] -->
+    <string name="address_museum5">Russische Kolonie 2, Potsdam</string>
+    <!-- Address of the restaurant1 [CHAR LIMIT=50] -->
+    <string name="address_restaurant1">Mittelstraße 20, Potsdam</string>
+    <!-- Address of the restaurant2 [CHAR LIMIT=50] -->
+    <string name="address_restaurant2">Benkertstraße 5, Potsdam</string>
+    <!-- Address of the restaurant3 [CHAR LIMIT=50] -->
+    <string name="address_restaurant3">Friedrich-Ebert-Straße 29, Potsdam</string>
+    <!-- Address of the restaurant4 [CHAR LIMIT=50] -->
+    <string name="address_restaurant4">Gutenbergstraße 25, Potsdam</string>
+    <!-- Address of the restaurant5 [CHAR LIMIT=50] -->
+    <string name="address_restaurant5">Dortustraße 17, Potsdam</string>
+    <!-- Address of the restaurant6 [CHAR LIMIT=50] -->
+    <string name="address_restaurant6">Brandenburger Str. 20, Potsdam</string>
+    <!-- Address of the restaurant7 [CHAR LIMIT=50] -->
+    <string name="address_restaurant7">Luisenpl. 3, Potsdam</string>
+    <!-- Address of the restaurant8 [CHAR LIMIT=50] -->
+    <string name="address_restaurant8">Brandenburger Str. 16, Potsdam</string>
+    <!-- Address of the hotel1 [CHAR LIMIT=100] -->
+    <string name="address_hotel1">Jägerallee 20, Potsdam</string>
+    <!-- Address of the hotel2 [CHAR LIMIT=100] -->
+    <string name="address_hotel2">Lange Brücke, Potsdam</string>
+    <!-- Address of the hotel3 [CHAR LIMIT=100] -->
+    <string name="address_hotel3">Am Luftschiffhafen 1, Potsdam</string>
+    <!-- Address of the hotel4 [CHAR LIMIT=100] -->
+    <string name="address_hotel4">Zeppelinstraße 136, Potsdam</string>
+    <!-- Address of the hotel5 [CHAR LIMIT=100] -->
+    <string name="address_hotel5">Luisenpl. 5, Potsdam</string>
+    <!-- Address of the hotel6 [CHAR LIMIT=100] -->
+    <string name="address_hotel6">Forststraße 80, Potsdam</string>
+    <!-- Address of the hotel7 [CHAR LIMIT=100] -->
+    <string name="address_hotel7">Friedrich-Ebert-Straße 88, Potsdam</string>
+    <!-- Address of the hotel8 [CHAR LIMIT=100] -->
+    <string name="address_hotel8">Babelsberger Str. 24, Potsdam</string>
+
+    <!-- Information about the event1 [CHAR LIMIT=500] -->
+    <string name="about_event1">The Music Festival Potsdam Sanssouci brings the sounds of EUROPE
+        to the palaces and gardens of Sanssouci.</string>
+    <!-- Information about the event2 [CHAR LIMIT=500] -->
+    <string name="about_event2">Amazing fireworks event in BUGA Park sparkles the sky
+    during 2 days event.</string>
+    <!-- Information about the event3 [CHAR LIMIT=500] -->
+    <string name="about_event3">Variety is the spice of Christmas in Potsdam:
+        there is the Festival of Blue Lights in the historical city centre</string>
+    <!-- Information about the place1 [CHAR LIMIT=500] -->
+    <string name="about_place1">Founded by Crown Prince William in 1833, this forested Havel River park
+        is a UNESCO-listed site.</string>
+    <!-- Information about the place2[CHAR LIMIT=500] -->
+    <string name="about_place2">Naturalistic areas and formally laid-out gardens planted with flowers,
+        trees and notable buildings.</string>
+    <!-- Information about the place3 [CHAR LIMIT=500] -->
+    <string name="about_place3">Sprawling 18th-century lakeside garden with lush meadows, Gothic 
+        structures and the Marble Palace.</string>
+    <!-- Information about the place4 [CHAR LIMIT=500] -->
+    <string name="about_place4">Park with flower gardens, playgrounds and sports such as table tennis,
+        plus a cafe and cultural events.</string>
+    <!-- Information about the place5 [CHAR LIMIT=500] -->
+    <string name="about_place5">High-tech cinematic rides and stunt shows, plus film sets and
+        kids' adventures in a movie-based park.</string>
+    <!-- Information about the museum1 [CHAR LIMIT=500] -->
+    <string name="about_museum1">The Museum Barberini is an art museum at the Old Market Square, Potsdam.
+    It was rebuilt on the site of the Barberini Palace, that was destroyed by bombing in 1945 and demolished
+        afterwards.</string>
+    <!-- Information about the museum2 [CHAR LIMIT=500] -->
+    <string name="about_museum2">In the Potsdam Museum, you will learn how interesting the history of this city is.
+    The collection awaits you in the charming, historic town hall.</string>
+    <!-- Information about the museum3 [CHAR LIMIT=500] -->
+    <string name="about_museum3">This museum, in an ornate 1685 structure, offers a modern gallery
+        with exhibits on film history.</string>
+    <!-- Information about the museum4 [CHAR LIMIT=500] -->
+    <string name="about_museum4">Cecilienhof Palace is a palace in Potsdam, Brandenburg,
+        Germany built from 1914 to 1917 in the layout of an
+    English Tudor manor house.</string>
+    <!-- Information about the museum5 [CHAR LIMIT=500] -->
+    <string name="about_museum5">19th-century heritage village with 13 buildings,
+        one of which houses Russian colonial life museum.</string>
+    <!-- Information about the restaurant1 [CHAR LIMIT=500] -->
+    <string name="about_restaurant1">Modern French restaurant.</string>
+    <!-- Information about the restaurant2 [CHAR LIMIT=500] -->
+    <string name="about_restaurant2">Late-night food.</string>
+    <!-- Information about the restaurant3 [CHAR LIMIT=500] -->
+    <string name="about_restaurant3">Late-night food.</string>
+    <!-- Information about the restaurant4 [CHAR LIMIT=500] -->
+    <string name="about_restaurant4">Late-night food.</string>
+    <!-- Information about the restaurant5 [CHAR LIMIT=500] -->
+    <string name="about_restaurant5">Late-night food.</string>
+    <!-- Information about the restaurant6 [CHAR LIMIT=500] -->
+    <string name="about_restaurant6">Outdoor seating</string>
+    <!-- Information about the restaurant7 [CHAR LIMIT=500] -->
+    <string name="about_restaurant7">Late-night food.</string>
+    <!-- Information about the restaurant8 [CHAR LIMIT=500] -->
+    <string name="about_restaurant8">Late-night food.</string>
+    <!-- Information about the hotel1 [CHAR LIMIT=500] -->
+    <string name="about_hotel1">Stylish lodging with free WiFi, a pool and a spa, plus an upscale
+        restaurant and a pub.</string>
+    <!-- Information about the hotel2 [CHAR LIMIT=500] -->
+    <string name="about_hotel2">Modern option with a bar and a restaurant serving regional and
+        international cuisine.</string>
+    <!-- Information about the hotel3 [CHAR LIMIT=500] -->
+    <string name="about_hotel3">Contemporary hotel with free Wi-Fi and breakfast, plus a sauna and a gym.</string>
+    <!-- Information about the hotel4 [CHAR LIMIT=500] -->
+    <string name="about_hotel4">Riverside inn featuring modern rooms and suites, plus a Mediterranean
+        restaurant and 2 bars.</string>
+    <!-- Information about the hotel5 [CHAR LIMIT=500] -->
+    <string name="about_hotel5">Traditional hotel featuring free Wi-Fi, with a seasonal terrace and a sauna.</string>
+    <!-- Information about the hotel6 [CHAR LIMIT=500] -->
+    <string name="about_hotel6">Simple rooms in a casual hotel with free Wi-Fi and breakfast,
+        plus terrace dining, a bar and a sauna.</string>
+    <!-- Information about the hotel7 [CHAR LIMIT=500] -->
+    <string name="about_hotel7">Sophisticated property with a restaurant/bar, plus a rooftop
+        terrace and a fitness room.</string>
+    <!-- Information about the hotel8 [CHAR LIMIT=500] -->
+    <string name="about_hotel8">Streamlined rooms featuring vibrant wall art, in a contemporary hotel
+        offering complimentary Wi-Fi.</string>
+
+    <string name="hello_blank_fragment">hello</string>
+
+</resources>
